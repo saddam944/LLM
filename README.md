@@ -18,7 +18,7 @@ Paper 1: Tokenization Matters! Degrading Large Language Models through Challengi
 5. Learners (zero/few shots)<br />
 Paper 1: Learning Transferable Visual Models From Natural Language Supervision [Link](https://arxiv.org/pdf/2103.00020)<br />
 Paper 2: Language Models are Few-Shot Learners [Link](https://arxiv.org/pdf/2005.14165)<br />
-Paper 3: A survey of zero-shot learning: Settings, methods, and applications [Link] (https://dl.acm.org/doi/abs/10.1145/3293318)<br /><br /><br />
+Paper 3: A survey of zero-shot learning: Settings, methods, and applications [Link](https://dl.acm.org/doi/abs/10.1145/3293318)<br /><br /><br />
 
 6. Contrastive Learning<br />
 Paper 1: A survey on contrastive self-supervised learning [Link](https://www.mdpi.com/2227-7080/9/1/2)<br /><br /><br />
